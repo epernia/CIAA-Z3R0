@@ -10,4 +10,4 @@ EFM32 Happy gecko board for LQFP48 parts
 
 #### 3D view
 
-![boar dimage](ciaa-z3r0.png)
+![boar dimage](CIAA-Z3R0.png)
